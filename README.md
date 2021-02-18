@@ -12,6 +12,6 @@ ejemplo_clase
 __Ejercicios para que el alumno desarrolle lo visto en clase__\
 ejercicios_practica
 
-# Consultas
+# Consultas:
 alumnos@inove.com.ar
 
